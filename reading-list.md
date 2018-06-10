@@ -5,18 +5,37 @@ layout: "page"
 icon: fa-book
 order: 3
 ---
+今読んでいる/実践している/積んでる書籍のリスト. \\
+とりあえず買って手元にあるものだけ. \\
+読みたい人には貸せます. 
 
-I love books! Here are some I'm reading now:
+## プログラミング関連
+1. 退屈なことはPythonにやらせよう
+2. 人狼知能で学ぶAIプログラミング
+3. 計算機プログラムの構造と解釈
+4. 言語のしくみ
+5. 型システム入門 プログラミング言語と型の理論
+6. プログラミングコンテスト チャレンジブック
+7. コンパイラ 原理・技法・ツール
+8. Python機械学習プログラミング
+9. 世界で闘うプログラミング力を鍛える本
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
+## システム開発・チーム開発関連
+1. カイゼン・ジャーニー
+2. アジャイルサムライ
+3. アジャイルなゲーム開発
+4. 達人プログラマー
+5. 鬼速PDCA
+6. 基礎から学ぶチーム開発の成功法則
 
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+## 数学関連
+1. 数学における証明と真理 様相理論と数学基礎論
+2. キューネン数学基礎論講義
+3. 数学ガール ポアンカレ予想
+4. 圏論の基礎
+5. 圏論の歩き方
+
+## その他
+1. 数学文章作法 基礎編
+2. 数学文章作法 推敲編
+3. Unityゲーム プログラミング・バイブル
